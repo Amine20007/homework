@@ -1,0 +1,15 @@
+.img {
+  border-radius: 5px;
+}
+.section-bg {
+  background-color: #cdcdcd;
+}
+
+.content {
+  padding: 30px;
+}
+.center{
+  width: auto;
+  height: auto;
+  justify-content: center ;
+}
